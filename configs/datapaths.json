@@ -1,1 +1,1 @@
-{"ade20k": "/datasets01/ADE20K/050718/ADE20K_2016_07_26/", "coco": "/path/to/coco/", "nuswide": "/path/to/nuswide/", "voc": "/path/to/voc/", "recipe1m": "/path/to/recipe1m/"}
+{"ade20k": "/private/home/ajakash/image-to-set/datasets/ADEChallengeData2016/", "coco": "/path/to/coco/", "nuswide": "/path/to/nuswide/", "voc": "/path/to/voc/", "recipe1m": "/path/to/recipe1m/"}
